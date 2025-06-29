@@ -6,6 +6,7 @@
   grid-template-columns: 1fr 2fr;
   gap: 150px;
   align-items: center;
+  margin-bottom: 80px;
 }
 
 .foto-intro {
