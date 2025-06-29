@@ -5,6 +5,7 @@
   grid-template-columns: 1fr 1fr;
   align-items: center;
 }
+
 .footer-titulo {
   padding-top: 20px;
   grid-column: 1 / -1;
