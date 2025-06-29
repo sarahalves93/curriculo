@@ -40,37 +40,37 @@
 }
 
 li.html::before {
-  background-image: url("../img/60.svg");
+  background-image: url("img/60.svg");
 }
 li.css::before {
-  background-image: url("../img/50.svg");
+  background-image: url("img/50.svg");
 }
 li.ui::before {
-  background-image: url("../img/60.svg");
+  background-image: url("img/60.svg");
 }
 li.ux::before {
-  background-image: url("../img/40.svg");
+  background-image: url("img/40.svg");
 }
 li.figma::before {
-  background-image: url("../img/60.svg");
+  background-image: url("img/60.svg");
 }
 li.java::before {
-  background-image: url("../img/45.svg");
+  background-image: url("img/45.svg");
 }
 li.comunicacao::before {
-  background-image: url("../img/80.svg");
+  background-image: url("img/80.svg");
 }
 li.lideranca::before {
-  background-image: url("../img/70.svg");
+  background-image: url("img/70.svg");
 }
 li.inovacao::before {
-  background-image: url("../img/75.svg");
+  background-image: url("img/75.svg");
 }
 li.adaptabilidade::before {
-  background-image: url("../img/95.svg");
+  background-image: url("img/95.svg");
 }
 li.organizacao::before {
-  background-image: url("../img/100.svg");
+  background-image: url("img/100.svg");
 }
 
 .habilidades-nome li:not(:last-child)::after {
@@ -118,47 +118,47 @@ li.organizacao::before {
   }
 
   li.html::before {
-    background-image: url("../img/60.svg");
+    background-image: url("img/60.svg");
     max-width: 50%;
   }
   li.css::before {
     max-width: 50%;
-    background-image: url("../img/50.svg");
+    background-image: url("img/50.svg");
   }
   li.ui::before {
     max-width: 50%;
-    background-image: url("../img/60.svg");
+    background-image: url("img/60.svg");
   }
   li.ux::before {
     max-width: 50%;
-    background-image: url("../img/40.svg");
+    background-image: url("img/40.svg");
   }
   li.figma::before {
     max-width: 50%;
-    background-image: url("../img/60.svg");
+    background-image: url("img/60.svg");
   }
   li.java::before {
     max-width: 50%;
-    background-image: url("../img/45.svg");
+    background-image: url("img/45.svg");
   }
   li.comunicacao::before {
     max-width: 50%;
-    background-image: url("../img/80.svg");
+    background-image: url("img/80.svg");
   }
   li.lideranca::before {
     max-width: 50%;
-    background-image: url("../img/70.svg");
+    background-image: url("img/70.svg");
   }
   li.inovacao::before {
     max-width: 50%;
-    background-image: url("../img/75.svg");
+    background-image: url("img/75.svg");
   }
   li.adaptabilidade::before {
     max-width: 50%;
-    background-image: url("../img/95.svg");
+    background-image: url("img/95.svg");
   }
   li.organizacao::before {
     max-width: 50%;
-    background-image: url("../img/100.svg");
+    background-image: url("img/100.svg");
   }
 }
