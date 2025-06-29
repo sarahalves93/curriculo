@@ -58,11 +58,11 @@
 }
 
 .email a::before {
-  background-image: url("img/icons/email.svg");
+  background-image: url("/img/icons/email.svg");
 }
 
 .linkedin a::before {
-  background-image: url("img/icons/linkedin.svg");
+  background-image: url("../img/icons/linkedin.svg");
 }
 
 .github a::before {
