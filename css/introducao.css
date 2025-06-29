@@ -1,12 +1,11 @@
 .introducao {
   max-width: 100%;
-  padding: 240px 200px;
+  padding: 200px 200px;
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 150px;
   align-items: center;
-  margin-bottom: 80px;
 }
 
 .foto-intro {
