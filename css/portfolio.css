@@ -48,6 +48,7 @@
   line-height: 1.1;
   color: #dbe6e7;
   font-weight: bold;
+    text-align: left;
 }
 
 .card-portfolio p {
@@ -57,6 +58,7 @@
   max-width: 38ch;
   margin-top: 20px;
   margin-bottom: 20px;
+    text-align: left;
 }
 
 .card-portfolio strong {
