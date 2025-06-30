@@ -117,11 +117,13 @@
   }
 
   .footer-texto {
+    text-size: 1rem;
     text-align: left;
     max-width: 40ch;
   }
 
   .footer-contato {
+    text-size: 1rem;
     display: flex;
     flex-direction: row;
     justify-content: center;
