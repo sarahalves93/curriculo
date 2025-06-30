@@ -1,3 +1,33 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.voltar-topo {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  color: #fff;
+  padding: 2px;
+  border-radius: 50%;
+  text-decoration: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+  transition: background 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.voltar-topo:hover {
+  background: linear-gradient(180deg, #031718, #113f43);
+}
+
+.voltar-topo svg,
+.voltar-topo img {
+  width: 48px;
+  height: 48px;
+}
+
 body {
   margin: 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
