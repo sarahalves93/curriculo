@@ -34,7 +34,7 @@
   font-size: 2rem;
 }
 
-.habilidades-nome li::before {
+/* .habilidades-nome li::before {
   content: "";
   position: absolute;
   left: 200px;
@@ -44,7 +44,7 @@
   height: 30px;
   background-size: contain;
   background-repeat: no-repeat;
-}
+} */
 
 li.html::before {
   background-image: url("img/60.svg");
