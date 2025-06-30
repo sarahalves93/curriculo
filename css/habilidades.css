@@ -37,7 +37,6 @@
   height: 30px;
   background-size: contain;
   background-repeat: no-repeat;
-  background: red;
 } 
 
 li.html::before {
