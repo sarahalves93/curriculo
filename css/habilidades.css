@@ -73,7 +73,7 @@ li.organizacao::before {
   background-image: url("../img/100.svg");
 } 
 
-.habilidades-nome li:not(:last-child)::after {
+/* .habilidades-nome li:not(:last-child)::after {
   content: "";
   position: absolute;
   margin-top: 45px;
@@ -83,7 +83,7 @@ li.organizacao::before {
   height: 2px;
   background: #1f5358;
   border-radius: 4px;
-}
+} */
 
 @media (max-width: 1100px) {
   .habilidades {
@@ -107,7 +107,7 @@ li.organizacao::before {
     padding-left: 0px;
   }
 
-  .habilidades-nome li:not(:last-child)::after {
+/*   .habilidades-nome li:not(:last-child)::after {
     content: "";
     position: absolute;
     margin-top: 35px;
@@ -117,7 +117,7 @@ li.organizacao::before {
     height: 2px;
     background: #1f5358;
     border-radius: 4px;
-  }
+  } */
 
 li.html::before {
     background-image: url("../img/60.svg");
