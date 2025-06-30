@@ -103,6 +103,7 @@ li.organizacao::before {
     line-height: 1;
     font-weight: bold;
     color: #eaf2f3;
+    text-align: left;
   }
 
   .habilidades-nome li:not(:last-child)::after {
@@ -111,7 +112,7 @@ li.organizacao::before {
     margin-top: 45px;
     left: 200px;
     width: 680px;
-    max-width: 50%;
+    max-width: 45%;
     height: 2px;
     background: #1f5358;
     border-radius: 4px;
@@ -119,46 +120,46 @@ li.organizacao::before {
 
   li.html::before {
     background-image: url("../img/60.svg");
-    max-width: 50%;
+    max-width: 45%;
   }
   li.css::before {
-    max-width: 50%;
+    max-width: 45%;
     background-image: url("../img/50.svg");
   }
   li.ui::before {
-    max-width: 50%;
+    max-width: 45%;
     background-image: url("../img/60.svg");
   }
   li.ux::before {
-    max-width: 50%;
+    max-width: 45%;
     background-image: url("../img/40.svg");
   }
   li.figma::before {
-    max-width: 50%;
+    max-width: 45%;
     background-image: url("../img/60.svg");
   }
   li.java::before {
-    max-width: 50%;
+    max-width: 45%;
     background-image: url("../img/45.svg");
   }
   li.comunicacao::before {
-    max-width: 50%;
+    max-width: 45%;
     background-image: url("../img/80.svg");
   }
   li.lideranca::before {
-    max-width: 50%;
+    max-width: 45%;
     background-image: url("../img/70.svg");
   }
   li.inovacao::before {
-    max-width: 50%;
+    max-width: 45%;
     background-image: url("../img/75.svg");
   }
   li.adaptabilidade::before {
-    max-width: 50%;
+    max-width: 45%;
     background-image: url("../img/95.svg");
   }
   li.organizacao::before {
-    max-width: 50%;
+    max-width: 45%;
     background-image: url("../img/100.svg");
   }
 }
