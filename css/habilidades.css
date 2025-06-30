@@ -104,6 +104,7 @@ li.organizacao::before {
     font-weight: bold;
     color: #eaf2f3;
     text-align: left;
+    padding-left: 0px;
   }
 
   .habilidades-nome li:not(:last-child)::after {
@@ -121,18 +122,22 @@ li.organizacao::before {
   li.html::before {
     background-image: url("../img/60.svg");
     max-width: 45%;
+    padding-right: 10px;
   }
   li.css::before {
     max-width: 45%;
     background-image: url("../img/50.svg");
+    padding-right: 10px;
   }
   li.ui::before {
     max-width: 45%;
     background-image: url("../img/60.svg");
+    padding-right: 10px;
   }
   li.ux::before {
     max-width: 45%;
     background-image: url("../img/40.svg");
+    padding-right: 10px;
   }
   li.figma::before {
     max-width: 45%;
@@ -141,25 +146,31 @@ li.organizacao::before {
   li.java::before {
     max-width: 45%;
     background-image: url("../img/45.svg");
+    padding-right: 10px;
   }
   li.comunicacao::before {
     max-width: 45%;
     background-image: url("../img/80.svg");
+    padding-right: 10px;
   }
   li.lideranca::before {
     max-width: 45%;
     background-image: url("../img/70.svg");
+    padding-right: 10px;
   }
   li.inovacao::before {
     max-width: 45%;
     background-image: url("../img/75.svg");
+    padding-right: 10px;
   }
   li.adaptabilidade::before {
     max-width: 45%;
     background-image: url("../img/95.svg");
+    padding-right: 10px;
   }
   li.organizacao::before {
     max-width: 45%;
     background-image: url("../img/100.svg");
+    padding-right: 10px;
   }
 }
