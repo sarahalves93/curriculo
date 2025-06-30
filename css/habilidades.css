@@ -28,6 +28,13 @@
 }
 
 .habilidades-nome li::before {
+  content: "🧪";
+  position: relative;
+  color: red;
+  font-size: 2rem;
+}
+
+.habilidades-nome li::before {
   content: "";
   position: absolute;
   left: 200px;
