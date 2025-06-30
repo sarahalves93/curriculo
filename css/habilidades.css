@@ -119,9 +119,9 @@ li.organizacao::before {
     border-radius: 4px;
   }
 
-  li.html::before {
+/*   li.html::before {
     background-image: url("../img/60.svg");
-    max-width: 45%;
+    max-width: 50%;
 
   }
   li.css::before {
@@ -170,5 +170,5 @@ li.organizacao::before {
     max-width: 50%;
     background-image: url("../img/100.svg");
 
-  }
+  } */
 }
