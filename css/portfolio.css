@@ -21,7 +21,7 @@
 .card-portfolio {
   background: linear-gradient(180deg, #113f43, #2b767d);
   border-radius: 5px;
-  padding: 20px;
+  padding: 16px;
   transition: transform 0.3s ease;
   display: flex;
   flex-direction: column;
